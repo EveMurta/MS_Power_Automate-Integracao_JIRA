@@ -1,5 +1,9 @@
 # Automação RPA — Plataforma de Integração de Chamados
 
+## Related Projects
+
+🔒 Private Repository: `https://github.com/EveMurta/MS_Power_Automate_Integracao_JIRA-ASSIST`
+
 ## 📌 Visão Geral
 
 Esta automação integra uma plataforma de chamados com Microsoft Power Platform e um fluxo de automação desktop (RPA). A solução automatiza o monitoramento, coleta, roteamento e processamento assistido de chamados técnicos provenientes de grupos operacionais específicos.
